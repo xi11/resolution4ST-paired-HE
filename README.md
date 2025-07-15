@@ -7,8 +7,8 @@ Q: Why using 65um to estimate instead of 55um?
 
 
 ## Resolutation, micron/pixel (mpp), for 10x ST paired H&E and IF images
-|Human cancer type  |File ID     | H&E (mpp)    | H&E-estimated (mpp)|  IF (mpp)|
-|:-----------------:|:-----------:|:------------:|:------------:|:------------:|
+|Human cancer type  |File ID     | H&E (mpp)    | H&E-estimated (mpp)|  IF (mpp)| Tissue source|
+|:-----------------:|:-----------:|:------------:|:------------:|:------------:|:------------:|
 |Breast             |Xenium_V1_FFPE_Human_Breast_IDC_Big_1_he_image.ome.tif|0.2125| NA |0.2125|
 |Breast             |Xenium_V1_FFPE_Human_Breast_IDC_Big_2_he_image.ome.tif|0.2125| NA |0.2125|
 |Breast             |Xenium_V1_FFPE_Human_Breast_IDC_With_Addon_he_image.ome.tif|0.2125| NA |0.2125|
@@ -28,6 +28,8 @@ Q: Why using 65um to estimate instead of 55um?
 |Colorectal         |Visium_HD_Human_Colon_Cancer_tissue_image.btf | 0.2738 | TBD |NA|
 |Intestine          |Visium_FFPE_Human_Intestinal_Cancer_image.jpg | NA | 0.6928| NA|
 |Kidney             |CytAssist_11mm_FFPE_Human_Kidney_tissue_image.tif |0.2738 | 0.2966 | NA |
+|Lung(5k-3.0)       |Xenium_Prime_Human_Lung_Cancer_FFPE_he_image.ome.tif |0.2738 | NA | NA| 
+|Lung(5k-3.0)       |morphology.ome.tif(5k) |NA|NA|0.2125|
 |Lung               |CytAssist_FFPE_Human_Lung_Squamous_Cell_Carcinoma_tissue_image.tif | 0.2740 | 0.2538 | NA|
 |Lung               |CytAssist_11mm_FFPE_Human_Lung_Cancer_tissue_image.tif | 0.2738 | 0.2965 | NA|
 |Ovarian            |Visium_FFPE_Human_Ovarian_Cancer_image.jpg | NA | 0.6926 | NA |

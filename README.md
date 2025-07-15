@@ -28,8 +28,8 @@ Q: Why using 65um to estimate instead of 55um?
 |Colorectal         |Visium_HD_Human_Colon_Cancer_tissue_image.btf | 0.2738 | TBD |NA|
 |Intestine          |Visium_FFPE_Human_Intestinal_Cancer_image.jpg | NA | 0.6928| NA|
 |Kidney             |CytAssist_11mm_FFPE_Human_Kidney_tissue_image.tif |0.2738 | 0.2966 | NA |
-|Lung(5k-3.0)       |Xenium_Prime_Human_Lung_Cancer_FFPE_he_image.ome.tif |0.2738 | NA | NA| 
-|Lung(5k-3.0)       |morphology.ome.tif |NA|NA|0.2125|
+|Lung(5k-3.0)       |Xenium_Prime_Human_Lung_Cancer_FFPE_he_image.ome.tif |0.2738 | NA | NA| Avaden Biosciences|
+|Lung(5k-3.0)       |morphology.ome.tif |NA|NA|0.2125|Avaden Biosciences|
 |Lung(v1-2.0)       |Xenium_V1_humanLung_Cancer_FFPE_he_image.ome.tif | 0.2738 | NA | NA| BioIVT|
 |Lung(v1-2.0)       |morphology.ome | NA| NA | 0.2125| BioIVT|
 |Lung(v1-1.3)       |Xenium Human Lung Preview Data no HnE-cancer| NA| NA|NA|Avaden Biosciences|

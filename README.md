@@ -30,6 +30,8 @@ Q: Why using 65um to estimate instead of 55um?
 |Kidney             |CytAssist_11mm_FFPE_Human_Kidney_tissue_image.tif |0.2738 | 0.2966 | NA |
 |Lung(5k-3.0)       |Xenium_Prime_Human_Lung_Cancer_FFPE_he_image.ome.tif |0.2738 | NA | NA| Avaden Biosciences|
 |Lung(5k-3.0)       |morphology.ome.tif |NA|NA|0.2125|Avaden Biosciences|
+|Lung(v1-2.0addon)  |Xenium_V1_Human_Lung_Cancer_Addon_FFPE_he_image.ome.tif | 0.2738 | NA | NA| Discovery Life Sciences|
+|Lung(v1-2.0addon)  |morphology.ome | NA| NA | 0.2125| Discovery Life Sciences|
 |Lung(v1-2.0)       |Xenium_V1_humanLung_Cancer_FFPE_he_image.ome.tif | 0.2738 | NA | NA| BioIVT|
 |Lung(v1-2.0)       |morphology.ome | NA| NA | 0.2125| BioIVT|
 |Lung(v1-1.3)       |Xenium Human Lung Preview Data no HnE-cancer| NA| NA|NA|Avaden Biosciences|
